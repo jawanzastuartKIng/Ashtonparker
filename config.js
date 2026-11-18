@@ -1,6 +1,6 @@
 window.FLIPBOOK_CONFIG = {
-  title: "Lodge Magazine 2026",
-defaultPdf: "lodge-magazine-2026.pdf",
+  title: "Ashton Parker Memorial",
+defaultPdf: "Ashton_Parker_Memorial.pdf",
   accent: "#28b6d8",
   background: "#151515",
   allowDownload: true,
